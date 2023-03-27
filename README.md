@@ -15,7 +15,7 @@ The portfolio is built with an image of a penguin known as noot noot as the main
 
 ## Take A Look At My Website!
 
-![NH-GIF](https://user-images.githubusercontent.com/127361736/227891070-588ea50e-bed7-43a7-b4a1-cedb28269d3d.gif)
+![Noah Hoang _ Portfolio](https://user-images.githubusercontent.com/127361736/228078346-7f0b4f74-c5af-4fbc-837c-60d623824d23.gif)
 
 ## Links
 
