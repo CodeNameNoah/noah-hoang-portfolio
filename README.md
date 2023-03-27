@@ -47,9 +47,21 @@ N/A
 
 ## Credits
 
-- https://www.pluralsight.com/guides/semantic-html
+- Guide for Semantic tagging
 
-- https://fonts.google.com/
+* https://www.pluralsight.com/guides/semantic-html
+
+- Code Source for using special google fonts
+
+* https://fonts.google.com/
+
+- Guide for Gifs to use in README.md
+
+* https://www.youtube.com/watch?v=3RlpVrYt_qE&ab_channel=AskCloudArchitech
+
+- Guide for Fonts and Icons to use in footer/contact section of index.html
+
+* https://fontawesome.com/v4/icons/
 
 ## License
 
