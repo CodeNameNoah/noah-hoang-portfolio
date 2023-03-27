@@ -9,6 +9,8 @@ This project was built to show future employers the extent of my skills and the 
 My portfolio ultimately educates any like-minded peers on how to refactor, implement semantic tags, and to enhance any site's ranking with satisfied accessibility standards on common search engines.
 I was able to learn how to be more efficient with setting up style sheets to be organized to prevent headaches in the future when I may return to borrow or polish my skills.
 
+The portfolio is built with an image of a penguin known as noot noot as the main image. Your eyes are met with an interesting combination of vivid colors and contrast. A navigation bar with texts that redirect you will be present. The portfolio as you scroll down shows sections of about my background information, my experiences, my projects, and my contacts along with interactive redirects when the icons are clicked on.
+
 ---
 
 ## Take A Look At My Website!
