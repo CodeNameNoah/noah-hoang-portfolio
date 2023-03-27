@@ -21,8 +21,10 @@ body {
 
 img {
   border-radius: 25%;
-  box-shadow: 0px 0px 74px hsl(59deg 99% 50% / 56%);
+  box-shadow: 0px 0px 74px hsl(129.5deg 97.21% 71.79% / 56%);
   margin-top: 50px;
+  width: 400px;
+  height: 500px;ssssssssssssssssssss
 }
 
 h1 {
@@ -54,7 +56,7 @@ nav ul {
   margin-bottom: 0px;
   padding-top: 20px;
   padding-bottom: 20px;
-  background: linear-gradient(45deg, black, hsl(59, 99%, 50%));
+  background: linear-gradient(45deg, black, hsl(129.5deg 97.21% 71.79% / 56%));
 }
 
 nav li {

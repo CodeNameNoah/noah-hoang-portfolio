@@ -1,6 +1,6 @@
 # Noah Hoang Portfolio
 
-This is where you can learn all about me! Please hire me :)
+This is where you can learn all about me!
 
 ## Description
 
