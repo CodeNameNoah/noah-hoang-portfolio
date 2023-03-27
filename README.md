@@ -1,10 +1,8 @@
-# noah-hoang-portfolio
+# Noah Hoang Portfolio
 
 This is where you can learn all about me! Please hire me :)
 
 ## Description
-
-<!-- Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide: -->
 
 I was eager to create a portfolio to showcase all my projects. In my portfolio you will find many past, current and future projects that will embody the assets of skills I have as a web develoepr.
 This project was built to show future employers the extent of my skills and the culimnation of many courses I have taken thus far. Such skills compose of being able to construct a portfolio from scratch and being able to include features to create a responsive portfolio.
@@ -15,7 +13,7 @@ I was able to learn how to be more efficient with setting up style sheets to be 
 
 ## Take A Look At My Website!
 
-![HorisonMini](https://user-images.githubusercontent.com/127361736/227173372-a341a569-569f-4c49-91fc-b93d82c8b0c9.gif)
+![NH-GIF](https://user-images.githubusercontent.com/127361736/227891070-588ea50e-bed7-43a7-b4a1-cedb28269d3d.gif)
 
 ---
 
@@ -46,13 +44,11 @@ N/A
 
 ## Credits
 
-<!-- List your collaborators, if any, with links to their GitHub profiles.
+* https://www.pluralsight.com/guides/semantic-html
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+* https://fonts.google.com/
 
-If you followed tutorials, include links to those here as well. -->
 
-https://www.pluralsight.com/guides/semantic-html
 
 ## License
 
