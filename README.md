@@ -15,6 +15,10 @@ I was able to learn how to be more efficient with setting up style sheets to be 
 
 ![NH-GIF](https://user-images.githubusercontent.com/127361736/227891070-588ea50e-bed7-43a7-b4a1-cedb28269d3d.gif)
 
+## Links
+
+- Link to live application https://codenamenoah.github.io/noah-hoang-portfolio/
+
 ---
 
 If you noticed, you can click on links to position your view onto the respective sections.
