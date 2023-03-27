@@ -25,8 +25,7 @@ If you noticed, you can click on links to position your view onto the respective
 
 1. Click on the green code button and copy the link for the SSH key.
 2. Once clip-boarded load up a command line interface and change directory to one of your preference
-<!-- TODO:CHANGE CLONE ADDRESS -->
-3. Enter in the command `git clone git@github.com:CodeNameNoah/Site-Refactor.git`
+3. Enter in the command `git clone git@github.com:CodeNameNoah/noah-hoang-portfolio.git`
 4. Enter your protected SSH password
 5. Enjoy!
 
@@ -44,11 +43,9 @@ N/A
 
 ## Credits
 
-* https://www.pluralsight.com/guides/semantic-html
+- https://www.pluralsight.com/guides/semantic-html
 
-* https://fonts.google.com/
-
-
+- https://fonts.google.com/
 
 ## License
 
